@@ -6,6 +6,8 @@ git push test.
 Creating a new branch is quick.
 add a line words.
 add another line words in branch dev.
-C reating a new branch is quick & (or and) simple.
+Creating a new branch is quick & (or and) simple.
 test for no fast forward.
+this is branch dev and dev01 now.
+this is a test of dev01.
 
