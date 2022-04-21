@@ -2,7 +2,7 @@ Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-this is a git push test.  //fix a bug.
+this is a git push test.   //fix a bug in here.
 Creating a new branch is quick.
 add a line words.
 add another line words in branch dev.
@@ -10,4 +10,5 @@ Creating a new branch is quick & (or and) simple.
 test for no fast forward.
 this is branch dev and dev01 now.
 this is a test of dev01.
+this is a test of stash.
 
