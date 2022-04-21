@@ -10,4 +10,5 @@ Creating a new branch is quick & (or and) simple.
 test for no fast forward.
 this is branch dev and dev01 now.
 this is a test of dev01.
+this is a test of stash.
 
